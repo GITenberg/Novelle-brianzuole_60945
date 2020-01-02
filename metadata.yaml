@@ -1,0 +1,31 @@
+_repo: Novelle-brianzuole_60945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cantù, Cesare
+    alias: Cantu, Cesare
+    birthdate: 1804
+    deathdate: 1895
+    gutenberg_agent_id: '2238'
+    url: http://www.gutenberg.org/2009/agents/2238
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Cesare_Cant%C3%B9
+    - https://en.wikipedia.org/wiki/Cesare_Cantù
+description: ''
+gutenberg_issued: '2019-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60945'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 19th century'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Cesare Cantù -- La Madonna d'Imbevera -- La battaglia di Verderio
+  -- Il castello di Brivio -- La setajuola -- Agnese o la veglia di stalla.
+title: Novelle brianzuole
+url: http://www.gutenberg.org/ebooks/60945
